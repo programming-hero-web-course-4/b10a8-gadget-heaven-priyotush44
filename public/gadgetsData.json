@@ -1,0 +1,170 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Samsung Galaxy S21",
+    "product_image": "https://www.mobiledokan.co/wp-content/uploads/2020/09/Samsung-Galaxy-S21-Plus-5G-Phantom-Violet-500x500.jpg",
+    "category": "Smartphone",
+    "price": 799,
+    "description": "Samsung Galaxy S21 with 8GB RAM, 128GB storage, and 5G connectivity.",
+    "Specification": [
+      "8GB RAM",
+      "128GB Storage",
+      "64MP Camera",
+      "4000mAh Battery",
+      "5G Enabled"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 2,
+    "product_title": "iPhone 13",
+    "product_image": "https://www.mobiledokan.co/wp-content/uploads/2020/12/Apple-iPhone-13-Pro-Graphite-500x500.jpg",
+    "category": "Smartphone",
+    "price": 899,
+    "description": "Apple iPhone 13 with A15 Bionic chip, 128GB storage, and Super Retina XDR display.",
+    "Specification": [
+      "A15 Bionic",
+      "128GB Storage",
+      "Dual 12MP Camera",
+      "3240mAh Battery",
+      "5G Enabled"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_title": "Google Pixel 6",
+    "product_image": "https://www.mobiledokan.co/wp-content/uploads/2021/04/Google-Pixel-6-Kinda-Coral-500x500.jpg",
+    "category": "Smartphone",
+    "price": 699,
+    "description": "Google Pixel 6 with 6GB RAM, 128GB storage, and Tensor chip.",
+    "Specification": [
+      "6GB RAM",
+      "128GB Storage",
+      "50MP Camera",
+      "4600mAh Battery",
+      "5G Enabled"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": 4,
+    "product_title": "OnePlus 9",
+    "product_image": "https://www.mobiledokan.co/wp-content/uploads/2020/10/OnePlus-9-Pro-Pine-Green-500x500.jpg",
+    "category": "Smartphone",
+    "price": 729,
+    "description": "OnePlus 9 with 12GB RAM, 256GB storage, and Snapdragon 888 processor.",
+    "Specification": [
+      "12GB RAM",
+      "256GB Storage",
+      "48MP Camera",
+      "4500mAh Battery",
+      "5G Enabled"
+    ],
+    "availability": false,
+    "rating": 4.4
+  },
+  {
+    "product_id": 5,
+    "product_title": "Sony Xperia 1 III",
+    "product_image": "https://www.mobiledokan.co/wp-content/uploads/2020/09/Sony-Xperia-1-III-500x500.jpg",
+    "category": "Smartphone",
+    "price": 1299,
+    "description": "Sony Xperia 1 III with 12GB RAM, 256GB storage, and 4K OLED display.",
+    "Specification": [
+      "12GB RAM",
+      "256GB Storage",
+      "12MP Camera",
+      "4500mAh Battery",
+      "5G Enabled"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 6,
+    "product_title": "Huawei P40 Pro",
+    "product_image": "https://www.mobiledokan.co/wp-content/uploads/2020/03/Huawei-P40-Black-500x500.jpg",
+    "category": "Smartphone",
+    "price": 499,
+    "description": "Huawei P40 Pro with 8GB RAM, 256GB storage, and 50MP Ultra Vision camera.",
+    "Specification": [
+      "8GB RAM",
+      "256GB Storage",
+      "50MP Camera",
+      "4200mAh Battery",
+      "5G Enabled"
+    ],
+    "availability": false,
+    "rating": 4.2
+  },
+  {
+    "product_id": 7,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-13-plus-9320/xps-13-plus-9320-01-500x500.webp",
+    "category": "Laptop",
+    "price": 1199,
+    "description": "Dell XPS 13 with 11th Gen Intel Core i7 processor and 512GB SSD.",
+    "Specification": [
+      "11th Gen Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "13.3-inch FHD",
+      "Intel Iris Xe Graphics"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 8,
+    "product_title": "MacBook Air M1",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/space-gray/13-inch/macbook-air-13-3-inch-500x500.webp",
+    "category": "Laptop",
+    "price": 999,
+    "description": "Apple MacBook Air with M1 chip, 8GB RAM, and 256GB SSD.",
+    "Specification": [
+      "Apple M1 Chip",
+      "8GB RAM",
+      "256GB SSD",
+      "13.3-inch Retina",
+      "7-core GPU"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 9,
+    "product_title": "Sony WH-1000XM4",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/headphone/sony/wh-1000xm5/wh-1000xm5-02-500x500.webp",
+    "category": "Headphones",
+    "price": 349,
+    "description": "Sony WH-1000XM4 wireless noise-canceling over-ear headphones.",
+    "Specification": [
+      "Wireless",
+      "Active Noise Cancellation",
+      "30 Hours Battery Life",
+      "Bluetooth 5.0"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 10,
+    "product_title": "Bose 35 II",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/headphone/bose/quietcomfort-45/quietcomfort-45-01-500x500.webp",
+    "category": "Headphones",
+    "price": 299,
+    "description": "Bose QuietComfort 35 II wireless Bluetooth headphones with noise cancellation.",
+    "Specification": [
+      "Wireless",
+      "Active Noise Cancellation",
+      "20 Hours Battery Life",
+      "Alexa Enabled"
+    ],
+    "availability": false,
+    "rating": 4.6
+  }
+]
